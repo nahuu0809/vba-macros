@@ -29,3 +29,7 @@ Para usarlas siempre, guardalas en el libro de macros personal (`PERSONAL.XLSB` 
 
 - Los archivos usan codificación ANSI (Windows-1252), la que espera el editor de VBA. Un `.gitattributes` evita que Git los convierta.
 - Pensadas para Microsoft Office en Windows. No funcionan en Excel Online.
+
+## Licencia
+
+Código bajo [licencia MIT](LICENSE). © 2026 Nahuel Emiliano Diaz.
