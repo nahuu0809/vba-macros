@@ -1,0 +1,22 @@
+# archivos temporales de Office
+~$*
+*.tmp
+
+# libros y documentos de prueba (los datos no se suben)
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.doc
+*.docx
+*.docm
+*.pst
+*.ost
+*.oft
+
+# editor y sistema
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+Desktop.ini

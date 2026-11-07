@@ -1,0 +1,5 @@
+# El editor de VBA exporta y espera ANSI (Windows-1252) con CRLF: que Git no lo toque.
+*.bas -text
+*.cls -text
+*.frm -text
+*.frx binary
